@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 
-VERSION = '3.2.5.git' 
+VERSION = '3.2.5git' 
 
 README_FILE = open('README')
 try:
